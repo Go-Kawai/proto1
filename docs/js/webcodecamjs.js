@@ -41,10 +41,10 @@ var WebCodeCamJS = function(element) {
         // ----ここから追記----
           // 640x480くらいのサイズの場合
         scanSize = {
-            x: 180,
-            y: 160,
-            width: 640,
-            height: 480,
+            x: 80,
+            y: 60,
+            width: 320,
+            height: 240,
         },
         // ----ここまで追記----
         options = {
