@@ -43,8 +43,8 @@ var WebCodeCamJS = function(element) {
         scanSize = {
             x: 80,
             y: 60,
-            width: 320,
-            height: 240,
+            width: 640,
+            height: 480,
         },
         // ----ここまで追記----
         options = {
